@@ -28,7 +28,7 @@ public class School {
         // If it is equal stop, and return that specific student
     }
 
-    public List<Student> findStudentsByGrade(Float mark) {
+    public List<Student> findStudentsByGrade(Float mark, Boolean above) {
 
         // Go over the list of students
         // For each one go over list of student's marks, check if any mark is over the mark value passed into this method
@@ -36,4 +36,6 @@ public class School {
         // If it is not then move on to next student
         // Return the list of students
     }
+
+
 }
