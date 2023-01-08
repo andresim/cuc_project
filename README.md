@@ -1,7 +1,7 @@
 # cuc_project
 cuc project for Alex
 
-#TO DO (for Alex)
+# TO DO (for Alex)
 
 - Build out main method will all of the user options (add a student, search for a student, get student average etc.)
 - Write method that will use the Mark constructor (Mark.java line 35) to create a list of marks and store it in an array for the student.
