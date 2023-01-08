@@ -1,11 +1,9 @@
 package com.company;
 
-import static java.sql.DriverManager.println;
-
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Still need to update this with the various different options a user can input and the appropriate method calls
 
         String id = "23";
         String name = "Bob";
